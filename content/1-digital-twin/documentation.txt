@@ -1,0 +1,45 @@
+Title: Digital Twin
+
+----
+
+Authors: 
+
+- 
+  title: Jennifer Piperek
+  website: https://anakeser.de/
+  name: Ana Keser
+- 
+  title: Leonard Weigand
+  website: https://jan-patrick.de/
+  name: Jan Schneider
+- 
+  name: Marcus Schoch
+  website: https://marcus-schoch.de/
+
+----
+
+Course: Schwerpunkte 1
+
+----
+
+Supervisors: Prof. Jens Döring
+
+----
+
+Major: IoT
+
+----
+
+Semester: 6
+
+----
+
+Description: Wir untersuchen wie das Medienlabor der HfG Schwäbisch Gmünd attraktiver gestaltet werden kann, damit Studenten ermutigt werden den Raum eigenständig und verantwortungsbewusst zu nutzen. Im Fokus der Projektarbeit steht dabei <u>**Austausch**</u>, <u>**Exploration mit Technologie**</u>, sowie Selbststudium zu fördern.
+
+----
+
+Coverimage: bitmap.png
+
+----
+
+Author: student

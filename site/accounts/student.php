@@ -9,4 +9,4 @@ firstname: Student
 lastname: ""
 email: ""
 history:
-  - my-documenation-hfg
+  - digital-twin
