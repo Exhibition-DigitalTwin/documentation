@@ -9,4 +9,5 @@ firstname: Team-DT
 lastname: ""
 email: ""
 history:
+  - digital-twin/projektverlauf/definition
   - digital-twin

@@ -1,0 +1,32 @@
+Title: Definition
+
+----
+
+Author: student
+
+----
+
+Text: 
+
+Wichtig ist für uns die Definition des Themas nachdem, 
+
+(important)
+Digital Twins sind virtuelle Repräsentanzen von physischen Objekten oder Systemen. 
+(endimportant)
+
+Wesentliche Charakteristika:
+<ul><li>Sensoren (Ermittlung des aktuellen Status)<li/>
+<li>Konnektivität (Vernetzung des Objekts)<li/>
+<li>Definierte Datenstrukturen (Analytics)<li/>
+<li>Ein User Interface (Visualisierung relevanter Daten)<li/></ul>
+ 
+Grundvoraussetzung sind Sensoren und Connectivity.
+ 
+Digital Twins liefern nicht nur Daten über den aktuellen Betriebszustand eines physischen
+Objektes. Sie können auch Prognosen über künftige Ereignisse ermöglichen.  
+
+
+**Modularität**
+Zwillinge setzen sich oft aus mehreren Zwillingen zusammen. 
+Beispiel Auto:  	Motors, Karosserie, Fahrwerks, Reifen, etc. 
+                           	Der Motor wieder die Einheit mehrerer Zwillinge (Motorkomponenten)
