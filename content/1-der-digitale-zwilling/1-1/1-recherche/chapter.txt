@@ -1,4 +1,4 @@
-Title: Definition
+Title: Recherche
 
 ----
 
@@ -8,8 +8,14 @@ Author: student
 
 Text: 
 
-Wichtig ist für uns die Definition des Themas nachdem, 
+** Ausstellungsgestaltung **
 
+** Interaktivität **
+
+** Inhalt **
+Wir 
+Our task in this course was to develop an interactive exhibit that educates various visitor types about the functionality of a digital twin.
+We wondered: how might we produce an educative and multi-sensory experience for a diverse audience in the most effective and appealing way? We are still working on this project and looking for answers. 
 (important)
 Digital Twins sind virtuelle Repräsentanzen von physischen Objekten oder Systemen. 
 (endimportant)

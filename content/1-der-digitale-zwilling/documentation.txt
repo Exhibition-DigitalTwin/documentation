@@ -1,0 +1,51 @@
+Title: Der digitale Zwilling
+
+----
+
+Authors: 
+
+- 
+  website: https://anakeser.de/
+  name: Ana Keser
+- 
+  website: https://jan-patrick.de/
+  name: Jan Schneider
+- 
+  website: https://marcus-schoch.de/
+  name: Marcus Schoch
+
+----
+
+Course: Einführung in die Schwerpunkte
+
+----
+
+Betreuung: Prof. Jens Döring
+
+----
+
+Major: IoT
+
+----
+
+Semester: 4
+
+----
+
+Description: 
+
+Die Herausforderung, der wir uns im Rahmen des Kurses stellten, lag in der Entwicklung eines wissensvermittelnden, interaktiven Ausstellungsobjektes zu einem Aspekt des Internet der Dinge. 
+
+Wir entschieden uns relativ schnell, den Fokus auf den digitalen Zwilling zu legen - ein aufstrebendes Thema, sowohl für die zukünftige Industrie als auch das alltägliche Leben.
+
+----
+
+Coverimage: 
+
+----
+
+Author: student
+
+----
+
+Supervisors: Prof. Jens Döring

@@ -9,5 +9,6 @@ firstname: Team-DT
 lastname: ""
 email: ""
 history:
-  - digital-twin/projektverlauf/definition
-  - digital-twin
+  - der-digitale-zwilling/1/interaktivitaet
+  - der-digitale-zwilling
+  - der-digitale-zwilling/1
