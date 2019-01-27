@@ -1,4 +1,4 @@
-Title: Tech Showcase
+Title: IDEATION
 
 ----
 
@@ -6,4 +6,4 @@ Author: student
 
 ----
 
-Text: 
+Text: hallo

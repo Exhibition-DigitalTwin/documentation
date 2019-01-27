@@ -9,6 +9,9 @@ firstname: Team-DT
 lastname: ""
 email: ""
 history:
-  - der-digitale-zwilling/1/interaktivitaet
-  - der-digitale-zwilling
-  - der-digitale-zwilling/1
+  - >
+    der-digitale-zwilling/prototype/der-virtuelle-zwilling
+  - der-digitale-zwilling/prototype/der-physische-zwilling
+  - der-digitale-zwilling/prototype/konzept-3-aktuelles-konzept
+  - der-digitale-zwilling/prototype/konzept-2-drehtisch
+  - der-digitale-zwilling/prototype
