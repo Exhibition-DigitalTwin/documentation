@@ -42,7 +42,7 @@ Wir entschieden uns relativ schnell, den Fokus auf den digitalen Zwilling zu leg
 
 ----
 
-Coverimage: 
+Coverimage: digital-twin.svg
 
 ----
 

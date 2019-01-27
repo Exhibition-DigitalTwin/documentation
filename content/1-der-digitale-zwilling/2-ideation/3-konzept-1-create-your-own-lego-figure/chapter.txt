@@ -4,6 +4,26 @@ Title: Konzept 1: Create Your Own Lego Figure
 
 Text: 
 
+Bevor wir ein erstes Konzept ausarbeiteten, nutzen wir die Methode der *How-Might-We* Fragen. Wir stellten drei Kategorien auf: Aufmerksamkeit/Interesse, Interaktion und Wissensvermittlung/Lernfaktor und sammelten dazu relevante Fragestellungen, welche in dem Konzept beantwortet werden sollten. 
+
+(image: bild6.png  size: big)
+
+Anschließend probierten wir in einem ersten Konzept aus, mehrere Vorteile einzeln generierter Ideen zusammenzuführen. In dem vorangegangen Schritt haben wir bereits entschieden, ein physisches und virtuelles Objekt auszustellen. Deshalb suchten wir etwas, zu dem alle Nutzergruppen einen Bezug haben: Lego. Uns war wichtig eine Echtzeitspiegelung in das Konzept aufzunehmen, um die Verbindung der beiden Zwillinge zu verdeutlichen. Um das Erlebnis mit dem Exponat möglichst interessant für Besucher zu gestalten, suchten wir aufregende und spielerische Möglichkeiten zur Interaktion.
+
+Im ersten Konzept kann ein physisches Legomännchen individuell gestaltet und verändert werden. Eine Projektion an der Wand leitet durch den Gestaltungsprozess und vermittelt in mehreren Schritten Inhalte zum Digitalen Zwilling.  
+
+
+(image: bild.png size: half)
+(image: bild4.png size: half)
+(image: bild5.png  size: big)
+
+Wir fertigten ein Storyboard, in dem der grobe Ablauf einer User Journey dargestellt wird.
+
+(image: bild8.png  size: big)
+
+
+Sehr viele der zuvor gesammelten Fragen in den Bereichen Aufmerksamkeit/ Interesse konnten wir zwar nach grober Ausarbeitung des Konzepts beantworten, aber der (essentielle) Faktor der Wissensvermittlung fehlte. Aus diesem Grund entschieden wir uns gegen das Konzept und öffneten unseren Blick in einer Iteration erneut.
+
 ----
 
 Line: 

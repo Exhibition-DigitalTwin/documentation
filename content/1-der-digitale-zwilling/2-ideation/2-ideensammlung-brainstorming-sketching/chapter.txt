@@ -6,25 +6,26 @@ Text:
 
 Im nächsten Schritt des Prozesses sammelten wir erste Konzeptideen mit ersten Skizzen aus. Wichtig war, erstmal eine große Bandbreite an Ideen zu generieren, und erst später eine Auswahl zu treffen. Wir griffen auch die vorangegangen Kontextideen auf und überlegten uns wie ein dazu passendes Konzept aussehen könnte.
 
-
 ** Wie können wir den digitalen Zwilling darstellen?
  Wie den physischen?
 Welche Rolle nimmt der Besucher in unserem Konzept ein?**
 
-Eine große Herausforderung bestand darin, den Unterschied zwischen digitalem und physischen Zwilling darzustellen. Es sollte klar werden, dass beide Parts für sich selbst stehen und doch über den Datenaustausch verbunden sind. Eine Idee war, dieses Problem über eine Echtzeitspiegelung zu lösen: Ein physisches Objekt und ein virtuelles Objekt verhalten sich gleich. 
+Eine große Herausforderung bestand darin, den Unterschied zwischen digitalem und physischen Zwilling darzustellen. Es sollte klar werden, dass beide Parts für sich selbst stehen und doch über den Datenaustausch verbunden sind. Eine Idee war, dieses Problem über eine Echtzeitspiegelung zu lösen: Ein physisches Objekt und ein virtuelles Objekt verhalten sich zur gleichen Zeit identisch;  in Echtheit wird die Interaktion / Veränderung des einen Objekts auf den anderen Part übertragen.
 
-Da der Digitale Zwilling zukünftig in der Industrie 4.0 große Verwendung finden wird, war eine Überlegung den Kontext einer Fertigungsstraße zu wählen: Die Besucher könnten in unterschiedlichen Rollen in mehreren Szenarien und Stationen den kompletten Lebenszyklus eines physischen und digitalen Produktes verfolgen und im Laufe des Fertigungsprozesses die gegenseitigen Einflüsse und Verbindungen nachvollziehen. 
+Den Besucher ein reales Modell, etwa einen Jengaturm oder ein Modellflugzeug, auseinander- und zusammenbauen zu lassen und den Vorgang auch digital auf einem Screen verfolgen zu können, war unsere erste Idee. 
+
+(SKIZZE JENGA)
+
+Da der Digitale Zwilling zukünftig in der Industrie 4.0 große Verwendung finden wird, war die zweite Überlegung den Kontext einer Fertigungsstraße zu wählen: Die Besucher könnten in unterschiedlichen Rollen und mehreren Szenarien und Stationen den kompletten Lebenszyklus eines physischen und digitalen Produktes verfolgen und im Laufe des Fertigungsprozesses die gegenseitigen Einflüsse und Verbindungen nachvollziehen. 
 
 (SKIZZE FERTIGUNGSSTRASSE)
 
-Die Idee des persönlichen, digitalen Zwillings stellt den unmittelbaren Bezug zum Besucher her: Er wird selbst Teil der Ausstellung. Inspiriert von einem Exponat  des ZKM Karlsruhe, könnte ein digitales Abbild mit personenbezogenen Daten dargestellt werden. 
+Die nächste Idee des persönlichen, digitalen Zwillings stellt den unmittelbaren Bezug zum Besucher her: Er wird selbst Teil der Ausstellung. Inspiriert von einem Exponat  des ZKM Karlsruhe, könnte ein digitales Abbild mit personenbezogenen Daten dargestellt werden.  
 
-(SKIZZE MEIN DIGITWIN)
-(FOTO AUSSTELLUNG ZKM)
+(image: zkm.jpg size: half )
+(image: meintwinzkm.jpg size:half )
 
-Eine weitere Überlegung war, den Besucher ein reales Modell, etwa einen Jengaturm oder ein Modellflugzeug, auseinander- und zusammenbauen zu lassen und den Vorgang auch digital auf einem Screen verfolgen zu können. 
-
-(SKIZZE Jenga)
+Allerdings ist der persönliche digitale Twin ein sehr sensibles Thema. Der unmittelbare Bezug zum Besuch muss mit Vorsicht gestaltet werden, da sonst schnell negative Erfahrungen zustande kommen können. Zudem ist der Mensch ein sehr komplexes Lebewesen, welches zu seinem physischen Aufbau auch eine Persönlichkeit besitzt.  Aus diesem Grund wird ein Mensch wohl nie exakt und gesamtheitlich virtuell repräsentiert werden können. Wir sind deshalb zu dem Entschluss gekommen, dass wir uns auf den Digitalen Zwilling  von Produkten konzentrieren möchten. 
 
 ** Wie kann man den Unterschied zwischen digital und physisch ohne Screen darstellen?** 
 
