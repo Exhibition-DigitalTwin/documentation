@@ -12,7 +12,9 @@ Zuerst beschäftigten wir uns mit dem deskriptiven Ansatz und analysierten, wie 
 
 **In welchen Kontext können wir den Digitalen Zwilling stellen?**
 
-Das Thema in einem Kontext zu erklären, hilft Besuchern einen Bezug herzustellen. Im kontextualisierenden Ansatz wird ein Exponat in einen Zusammenhang gestellt. ????????
+Im kontextualisierenden Ansatz wird ein Exponat in einem Zusammenhang gezeigt. Dabei geht es darum, interessante und relevante Bezüge herzustellen, da komplexe Themen und Sachverhalte häufig nur in einem Zusammenhang  zu verstehen sind. Für uns bedeutete das, einen relevanten und einfachen Kontext für den Digitalen Zwilling finden zu müssen. 
+
+Eine erste, naheliegende Überlegung war es, den Digitalen Zwilling in seiner aktuellen Hauptanwendung, der Industrie, zu erklären.  Eine andere Idee war es, den Besucher im Zusammenhang seines eigenen persönlichen Zwillings direkt zu involvieren und beziehen.
 
 ----
 

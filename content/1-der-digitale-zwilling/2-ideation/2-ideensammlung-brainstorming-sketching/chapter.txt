@@ -1,0 +1,32 @@
+Title: Ideensammlung: Brainstorming & Sketching
+
+----
+
+Text: 
+
+Im nächsten Schritt des Prozesses sammelten wir erste Konzeptideen mit ersten Skizzen aus. Wichtig war, erstmal eine große Bandbreite an Ideen zu generieren, und erst später eine Auswahl zu treffen. Wir griffen auch die vorangegangen Kontextideen auf und überlegten uns wie ein dazu passendes Konzept aussehen könnte.
+
+Eine große Herausforderung bestand darin, den Unterschied zwischen digitalem und physischen Zwilling darzustellen. Es sollte klar werden, dass beide Parts für sich selbst stehen und doch über den Datenaustausch verbunden sind. Eine Idee war, dieses Problem über eine Echtzeitspiegelung zu lösen: Ein physisches Objekt und ein virtuelles Objekt verhalten sich gleich. 
+
+Da der Digitale Zwilling zukünftig in der Industrie 4.0 große Verwendung finden wird, war eine Überlegung den Kontext einer Fertigungsstraße zu wählen: Die Besucher könnten in unterschiedlichen Rollen in mehreren Szenarien und Stationen den kompletten Lebenszyklus eines physischen und digitalen Produktes verfolgen und im Laufe des Fertigungsprozesses die gegenseitigen Einflüsse und Verbindungen nachvollziehen. 
+
+(SKIZZE FERTIGUNGSSTRASSE)
+
+Die Idee des persönlichen, digitalen Zwillings stellt den unmittelbaren Bezug zum Besucher her: Er wird selbst Teil der Ausstellung. Inspiriert von einem Exponat  des ZKM Karlsruhe, könnte ein digitales Abbild mit personenbezogenen Daten dargestellt werden. 
+
+(SKIZZE MEIN DIGITWIN)
+(FOTO AUSSTELLUNG ZKM)
+
+Eine weitere Überlegung war, den Besucher ein reales Modell auseinander- und zusammenbauen zu lassen und den Vorgang auch digital auf einem Screen verfolgen zu können. 
+
+Mithilfe der Methode Crazy Eight versuchten wir Lösungen ohne Touchscreen zu finden und neue Ideen zuzulassen. 
+
+Echtzeitspiegelung​
+Unser digitaler Zwilling​
+Fertigungsstraße​
+Make your own product​
+physisch - digital - physisch​
+
+----
+
+Author: student

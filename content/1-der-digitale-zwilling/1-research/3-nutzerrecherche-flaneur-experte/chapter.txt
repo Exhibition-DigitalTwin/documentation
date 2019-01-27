@@ -17,3 +17,5 @@ Es ist wichtig, ein Exponat zu konzipieren, welches für mehrere Nutzergruppen f
 Unsere Beobachtungen dienten als Grundlage für Personas, die wir anfertigten. Diese beinhalteten unter anderem Präferenzen zum Exponatsdesign und einen typischen Rundgang durch ein Museum.
 
 ( 3 BILDER PERSONAS)
+
+(image: bitmap.png caption: desc link: http://example.com)

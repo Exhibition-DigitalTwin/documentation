@@ -9,4 +9,9 @@ firstname: Team-DT
 lastname: ""
 email: ""
 history:
-  - der-digitale-zwilling1
+  - >
+    der-digitale-zwilling/ideation/ideensammlung-brainstorming-sketching
+  - der-digitale-zwilling/ideation/kommunikation-deskriptiv-szenographisch-kontextualisierend
+  - der-digitale-zwilling/ideation/konzept-1-create-your-own-lego-figure
+  - der-digitale-zwilling/ideation
+  - der-digitale-zwilling
