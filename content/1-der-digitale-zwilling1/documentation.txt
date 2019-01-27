@@ -1,18 +1,20 @@
-Title: Der digitale Zwilling
+Title: Der digitale Zwilling1
 
 ----
 
 Authors: 
 
 - 
-  website: https://anakeser.de/
+  title: Jennifer Piperek
+  website: https://anakeser.de
   name: Ana Keser
 - 
-  website: https://jan-patrick.de/
+  title: Leonard Weigand
+  website: https://jan-patrick.de
   name: Jan Schneider
 - 
-  website: https://marcus-schoch.de/
   name: Marcus Schoch
+  website: https://marcus-schoch.de
 
 ----
 
