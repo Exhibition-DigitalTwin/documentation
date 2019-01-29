@@ -10,8 +10,8 @@ lastname: ""
 email: ""
 history:
   - >
-    der-digitale-zwilling/ideation/konzept-1-create-your-own-lego-figure
-  - der-digitale-zwilling/ideation/ideensammlung-brainstorming-sketching
-  - der-digitale-zwilling
-  - der-digitale-zwilling/research/nutzerrecherche-flaneur-experte
-  - der-digitale-zwilling/ideation/kommunikation-deskriptiv-szenographisch-kontextualisierend
+    der-digitale-zwilling/ideation/konzept-2-drehtisch
+  - der-digitale-zwilling/ideation-2
+  - der-digitale-zwilling/prototype/konzept-2-drehtisch-konstruktion
+  - der-digitale-zwilling/prototype/konzept-3-aktuelles-konzept
+  - der-digitale-zwilling/research/nutzerrecherche-flaneur-experte-schulklassen

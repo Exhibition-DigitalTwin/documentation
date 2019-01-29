@@ -22,8 +22,8 @@ Welche Inhalte sollen vermittelt werden?**
 Wir informierten uns über die zahlreichen Anwendungsmöglichkeiten des virtuellen Zwillings und stellten dabei fest, dass wir auch in diesem Teilaspekt des IoT einen Fokus setzen müssen.  Wir sammelten interessante Titelfragen, welche das Exponat beantworten könnte und sortierten diese in 3 Kategorien: 
 Grundlagenwissen, Mein persönlicher Zwilling  und die Entwicklung des Digitalen Zwillings. Letztlich entschieden wir uns, die grundlegendste Frage *Was ist der Digitale Zwilling?* in unserem Exponat zu bearbeiten und zu klären. 
 
-(BILD MIT FRAGEN)
+(image:dokument-8_2.jpg  size: big) 
 
 Eine gute Methode, um Themen auf ihre wesentlichen Informationen zu reduzieren, ist die Gestaltung eines Plakats. Ein Plakat hat den Vorteil, dass es innerhalb relativ kurzer Lesezeit (zwei bis drei Minuten) die wichtigsten Informationen vermittelt. Wir profitierten im späteren Prozess sehr davon, anfangs wesentliche Informationen definiert und in Plakatform festgehalten zu haben.
 
-(BILD VON PLAKAT)
+(image:a4.png  size: big)

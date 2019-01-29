@@ -14,11 +14,13 @@ Eine große Herausforderung bestand darin, den Unterschied zwischen digitalem un
 
 Den Besucher ein reales Modell, etwa einen Jengaturm oder ein Modellflugzeug, auseinander- und zusammenbauen zu lassen und den Vorgang auch digital auf einem Screen verfolgen zu können, war unsere erste Idee. 
 
-(SKIZZE JENGA)
+(image: dokument.jpg size:half)
+(image: modell.jpg size:half)
 
 Da der Digitale Zwilling zukünftig in der Industrie 4.0 große Verwendung finden wird, war die zweite Überlegung den Kontext einer Fertigungsstraße zu wählen: Die Besucher könnten in unterschiedlichen Rollen und mehreren Szenarien und Stationen den kompletten Lebenszyklus eines physischen und digitalen Produktes verfolgen und im Laufe des Fertigungsprozesses die gegenseitigen Einflüsse und Verbindungen nachvollziehen. 
 
-(SKIZZE FERTIGUNGSSTRASSE)
+(image: strasse.jpg size:half)
+(image: strasse2.jpg size:half)
 
 Die nächste Idee des persönlichen, digitalen Zwillings stellt den unmittelbaren Bezug zum Besucher her: Er wird selbst Teil der Ausstellung. Inspiriert von einem Exponat  des ZKM Karlsruhe, könnte ein digitales Abbild mit personenbezogenen Daten dargestellt werden.  
 

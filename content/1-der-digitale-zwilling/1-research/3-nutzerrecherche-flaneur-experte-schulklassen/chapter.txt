@@ -1,0 +1,21 @@
+Title: Nutzerrecherche: Flaneur, Experte, Schulklassen
+
+----
+
+Author: student
+
+----
+
+Text: 
+
+**Welche Nutzergruppen gibt es im Kontext von Ausstellungsbesuchern?
+Welche Bedürfnisse und Wünsche haben Nutzer?
+Wie kann ein Exponat gestaltet werden, welches für verschiedene Nutzergruppen funktioniert und spannend ist?**
+
+Es ist wichtig, ein Exponat zu konzipieren, welches für mehrere Nutzergruppen funktioniert, da Ausstellungen meistens öffentlich sind und damit eine große Vielfalt an Besuchern bedeutet. Um ein Gefühl für die spezifischen Wünsche und Bedürfnisse von Besuchern zu entwickeln, besuchten wir zwei lokale Museen und analysierten ihr Verhalten mithilfe der Shadowing Methode. Vorab angefertigte Raumpläne der Museen erleichterten den Rundgang exakt festzuhalten. In beiden Museen identifizierten wir hauptsächlich Flaneure, Schulklassen, sowie Menschen, die sich gerne alles durchlesen. 
+
+Unsere Beobachtungen dienten als Grundlage für Personas, die wir anfertigten. Diese beinhalteten unter anderem Präferenzen zum Exponatsdesign und einen typischen Rundgang durch ein Museum.
+
+(image: persona_experte.jpg size: big)
+(image: persona_flaneur.jpg size: half)
+(image: persona_schulklasse.jpg size: half)
