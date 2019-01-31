@@ -4,7 +4,9 @@ Title: Konzept 2: Drehtisch Konstruktion
 
 Text: 
 
-(image: img_0845.jpg size:half)
+In einem ersten, schnellen Prototyp sollte die Idee und der grundsätzliche Aufbau des Exponats klar skizziert werden. Von dem Prototypen versprachen wir uns, einen ersten Eindruck zu gewinnen, welche problematischen Fragestellungen auf uns zukommen. Aus Kappa bauten wir ein Windrad und den drehbaren Tischaufsatz. Der Kappa-Screen ließ sich auf die vier definierten Stationen schieben. Auf Wireframes aus Papier definierten wir die Kerninformationen der jeweiligen Station. Der Maßstab lag bei etwa der Hälfte der tatsächlich geplanten Größe.
+
+ (image: img_0845.jpg size:half)
 (image: img_0848.jpg size:half)
 (image: img_0850.jpg size:half)
 (image: img_0851.jpg size:half)
