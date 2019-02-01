@@ -10,8 +10,8 @@ lastname: ""
 email: ""
 history:
   - >
-    der-digitale-zwilling/prototype/konzept-2-drehtisch-konstruktion
+    der-digitale-zwilling/prototype/konzept-3-aktuelles-konzept
+  - der-digitale-zwilling/prototype/konzept-2-drehtisch-konstruktion
   - der-digitale-zwilling/ideation/konzept-2-drehtisch
   - der-digitale-zwilling/ideation-2
-  - der-digitale-zwilling/prototype/konzept-3-aktuelles-konzept
   - der-digitale-zwilling/research/nutzerrecherche-flaneur-experte-schulklassen
