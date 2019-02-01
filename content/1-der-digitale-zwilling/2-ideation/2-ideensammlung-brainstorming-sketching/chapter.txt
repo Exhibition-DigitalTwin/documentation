@@ -6,13 +6,10 @@ Text:
 
 Im nächsten Schritt des Prozesses sammelten wir erste Konzeptideen mit ersten Skizzen aus. Wichtig war, erstmal eine große Bandbreite an Ideen zu generieren, und erst später eine Auswahl zu treffen. Wir griffen auch die vorangegangen Kontextideen auf und überlegten uns wie ein dazu passendes Konzept aussehen könnte.
 
-** Wie können wir den digitalen Zwilling darstellen?
- Wie den physischen?
+** Wie lassen sich virtueller und physischer Zwilling unterscheiden?
 Welche Rolle nimmt der Besucher in unserem Konzept ein?**
 
-Eine große Herausforderung bestand darin, den Unterschied zwischen digitalem und physischen Zwilling darzustellen. Es sollte klar werden, dass beide Parts für sich selbst stehen und doch über den Datenaustausch verbunden sind. Eine Idee war, dieses Problem über eine Echtzeitspiegelung zu lösen: Ein physisches Objekt und ein virtuelles Objekt verhalten sich zur gleichen Zeit identisch;  in Echtheit wird die Interaktion / Veränderung des einen Objekts auf den anderen Part übertragen.
-
-Den Besucher ein reales Modell, etwa einen Jengaturm oder ein Modellflugzeug, auseinander- und zusammenbauen zu lassen und den Vorgang auch digital auf einem Screen verfolgen zu können, war unsere erste Idee. 
+Die Darstellung des virtuellen Zwillings stellte eine der größten Herausforderungen im Projektprozess dar: Der digitale Part soll zum physischen identisch,  jedoch auch klar zu unterscheiden sein. Aus diesem Grund bieten sich Konzepte, die mit zwei physischen Modellen arbeiten nur begrenzt an: Über Material und Farbe experimentierten wir zunächst an dieser Idee und stellten fest, dass die Unterscheidung und insbesondere die Zuordnung beider Parts meist schwerfällt. In der Darstellung des Digitalen Zwillings auf einem Bildschirm und des physischen Zwillings als Modell sahen wir eine Lösung,  mit der wir relativ einfach sehr verständlich die virtuelle und reale Welt aufzeigen können.  Aus diesem Grund integrierten wir in jedem unserer Konzepte einen Bildschirm/ Projektion und ein physisches Modell/ Produkt. Eine Idee war, die Verbindung der Zwillinge über eine Echtzeitspiegelung zu lösen: Beide Objekte verhalten sich zur gleichen Zeit identisch;  in Echtheit wird die Interaktion / Veränderung des einen Objekts auf den anderen Part übertragen.
 
 (image: dokument.jpg size:half)
 (image: modell.jpg size:half)

@@ -4,6 +4,19 @@ Title: Der virtuelle Zwilling
 
 Text: 
 
+** Wie lässt sich der Digitale Zwilling darstellen?**
+
+Im letzten Konzept kann der Besucher über einen Touchscreen mit dem Digitalen Zwilling interagieren. Die digitalen Darstellungsformen eines Objekts sind jedoch vielfältig. Wir probierten im Laufe des Prozesses unterschiedliche Ideen und Visualisierungen eines Windrades aus: 2D Grafik, Zeichnung, 3D-Modell, etc.
+Letztlich entschieden wir uns für ein CAD Modell, so wie es in der Industrie bereits im Zusammenhang mit dem Digital Twin verwendet und gebraucht wird. 
+
+** Welche Screens stellen welche Informationen wie dar?
+Wie frei ist der User in seiner Auswahl an Inhalten? 
+Wie sieht die Navigation aus?**
+
+Wir haben lange überlegt, wie viel Freiheit wir dem Nutzer geben wollen. 
+
+**Wie kann ein Expertenwissen eingebaut werden?**
+
 ----
 
 Line: 
