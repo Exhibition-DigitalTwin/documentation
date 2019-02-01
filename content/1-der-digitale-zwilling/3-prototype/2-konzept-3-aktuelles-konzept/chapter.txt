@@ -11,20 +11,16 @@ Wie können wir aufbauend auf dem zweiten Konzept ein neues schaffen?**
 
 Die Umsetzbarkeit des Projektes rückte verstärkt in den Fokus. Aus diesem Grund sammelten wir Ideen zur Tischkonstruktion und werteten diese aus. Wir fertigten unterschiedliche Skizzen und entschieden schließlich, einen würfelförmigen Tisch auf MDF zu bauen, auf welchem mittig ein dynamisches Windrad stehen soll und in dem ein Screen eingelassen wird. Zwischen den beiden Zwillingen soll eine Verbindung mithilfe von LEDs visualisiert werden. Die Interaktion des Nutzers ist über den eingelassenen Touchscreen möglich. Das physische Modell (ab Station 2 auch das digitale) dreht sich nach jeder "Weiter"-Eingabe des Nutzers auf eine der vier Ecken des Tisches und kündigt einen neuen Inhalt an. 
 
-(image: img_0049.jpg size: big)
-
 **Wie können wir das Exponat interessant und zu einem Erlebnis gestalten?
 Welche Sinne des Nutzers werden angesprochen?**
 
 Unser Ziel war es, ein Exponat zu gestalten, welches für den Nutzer aufregend uns interessant ist. Wir fragten uns deshalb, welche weiteren Sinne wir ansprechen und reizen können, um ein Erlebnis zu schaffen. Wir entschieden uns schließlich für den Gehörsinn und kamen auf die Idee, Windgeräusche über Lautsprecher abspielen zu lassen. Vor jedem neuen Screen wird der Ton abgespielt, woraufhin sich das Windrad dreht und ein neuer Inhalt erscheint. Im Laufe des Prozesses entschieden wir uns, statt Lautsprecher Lüfter zu verwenden, da das Geräusch deutlich angenehmer klingt.
 
-In einem Storyboard beschrieben wir den Ablauf der Interaktion zwischen Nutzer und Exponat. Auch Transitions hielten wir grob in diesem fest. 
+In einem Storyboard beschrieben wir den Ablauf der Interaktion zwischen Nutzer und Exponat. Wir überlegten uns detailliert, zu welchem Zeitpunkt was passieren muss und wie die Übergänge zwischen den Screens aussehen können. In einem zusätzlichen Ablaufplan hielten wir fest, was auf der digitalen sowie physischen Seite zu welcher Zeit und Reihenfolge geschieht. 
 
+(image: img_0039.jpg size: half)
+(image: img_0049.jpg size: half)
 (image: bild0.jpg size: big)
-
-Wir überlegten uns detailliert, zu welchem Zeitpunkt was passieren muss und wie die Übergänge zwischen den Screens aussehen können. In einem Ablaufplan hielten wir fest, was auf der digitalen sowie physischen Seite zu welcher Zeit und Reihenfolge geschieht. 
-
-(image: img_0039.jpg size: big)
 
 ----
 
