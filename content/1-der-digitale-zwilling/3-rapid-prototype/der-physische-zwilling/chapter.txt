@@ -1,0 +1,15 @@
+Title: Der physische Zwilling
+
+----
+
+Text: 
+
+Für den physischen Part musste der grundsätzliche Aufbau des Exponats gebaut werden: Tisch, Aufsatz, sowie ein physischen Windradmodell. 
+
+Die Tischkonstruktion wurde so geplant, dass der Touchscreen für eine durchschnittliche Körpergröße auf angenehmer Höhe liegt.  Wir wählten MDF als Material, da es relativ günstig und stabil ist. Das  Windrad wurde in einem CAD Programm aufgebaut und anschließend 3D gedruckt. 
+
+Wir entschieden uns, einen zusätzlichen Tischaufsatz zu bauen, in welchem der Screen in geeignetem Winkel liegt. Um den Bezug des Nutzers zum Windrad zu verstärken und dem Exponat einen weniger abstrakten Look zu geben, frästen wir eine Hügellandschaft aus einer der MDF Platten.
+
+----
+
+Author: student

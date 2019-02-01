@@ -1,0 +1,27 @@
+Title: Aktueller Stand und weiteres Vorgehen
+
+----
+
+Text: 
+
+** Welche Probleme müssen bis zur Ausstellung gelöst werden?**
+
+Aktuell sind wir mit dem grundsätzlichen Aufbau des Exponats fertig. Der Tisch mit Aufsatz ist fertiggebaut. Im nächsten Schritt wird der Bildschirm  befestigt  und die Hügelformen festgeschraubt. Das Modell des physischen Windrades muss teilweise noch  gedruckt werden, allerdings sind die Dateien bereits angelegt. Die LEDs und Motoren laufen problemlos, auch bei Multitasking. Insgesamt funktioniert das Zusammenspiel von physisch und digital dank React App bereits relativ stabil. Allerdings müssen Details perfektioniert werden: die Animation der LEDs beim Übergang der beiden Welten, Timing, Positionen auf welche das Windrad drehen soll, usw. 
+
+Bis zur Ausstellung soll der Tisch noch geschliffen und poliert werden, sodass ein hochwertiger Look entsteht. Auch das Windrad muss, je nach Qualität des Drucks, eventuell geschliffen und bearbeitet werden.  Eine größere Baustelle sind derzeit noch die Screens für die Stationen *Simulation* und *Anwendung*. Das Screendesign, welches wir in Sketch und Adobe XD erstellt haben, muss noch auf die React App übertragen werden. Wir sind auf einem guten Weg, das Exponat bis zur Ausstellung zufriedenstellend fertigzustellen.
+
+----
+
+Line: 
+
+----
+
+Text-info: 
+
+----
+
+Tag-info: 
+
+----
+
+Author: student
