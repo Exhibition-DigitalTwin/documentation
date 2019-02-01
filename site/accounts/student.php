@@ -10,8 +10,8 @@ lastname: ""
 email: ""
 history:
   - >
-    der-digitale-zwilling/prototype/der-virtuelle-zwilling
+    der-digitale-zwilling/prototype/der-physische-zwilling
+  - der-digitale-zwilling/prototype/der-virtuelle-zwilling
   - der-digitale-zwilling/prototype/konzept-3-aktuelles-konzept
   - der-digitale-zwilling/ideation/ideensammlung-brainstorming-sketching
   - der-digitale-zwilling/prototype/konzept-2-drehtisch-konstruktion
-  - der-digitale-zwilling/ideation/konzept-2-drehtisch
