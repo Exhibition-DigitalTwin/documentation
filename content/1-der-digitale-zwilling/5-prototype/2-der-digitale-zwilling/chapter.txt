@@ -11,6 +11,8 @@ Letztlich entschieden wir uns für ein CAD Modell, so wie es in der Industrie be
 
 Da wir das Modell des Windrades in der Anwendung drehen und animieren wollten, entschieden wir uns für eine Umsetzung als React App mit der Library Three.js. Diese Bibliothek wird für Animationen von dreidimensionalen Grafiken in einem Webbrowser genutzt.
 
+**@jan noch was zu react? ####**
+
 (image: web-1920-31.png size:half)
 (image: web-1920-13.png size:half)
 
