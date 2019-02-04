@@ -11,7 +11,7 @@ email: ""
 history:
   - >
     der-digitale-zwilling/ausblick/aktueller-stand-und-weiteres-vorgehen
-  - der-digitale-zwilling/prototype/der-digitale-zwilling
+  - der-digitale-zwilling/ideation/konzept-2-drehtisch
+  - der-digitale-zwilling/ideation/konzept-1-create-your-own-lego-figure
   - der-digitale-zwilling/ideation/ideensammlung-brainstorming-sketching
-  - der-digitale-zwilling/prototype/der-physische-zwilling
-  - der-digitale-zwilling/iteration-ideation
+  - der-digitale-zwilling/ideation/kommunikation-deskriptiv-szenographisch-kontextualisierend

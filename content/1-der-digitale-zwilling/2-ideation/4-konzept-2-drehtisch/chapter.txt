@@ -15,7 +15,7 @@ Welche Geschichte wird mit welcher Erzählstruktur erzählt?
 Wir übernahmen die Idee des ersten Konzepts, den Inhalt in mehreren Schritten zu vermitteln. Wichtig war es uns, eine Erzählstruktur zu finden, welche den Besuchern die Inhalte aufbauend erklärt. Wir legten vier Stationen fest: *Aufbau, Datenaus-
 tausch, Simulation, Anwendungsfelder*. 
 
-Im *Aufbau* steht die Struktur des Digitalen Zwillings im Mittelpunkt. Die Verbindung der Daten wird im zweiten Schritt, dem *Datenaustausch*, behandelt. In der *Simulation* werden einige Vorteile des virtuellen Zwillings beleuchtet. *Anwendungsfelder* werden im letzten Schritt aufgezeigt.
+Im *Aufbau* steht die Struktur des digitalen Zwillings im Mittelpunkt. Die Verbindung der Daten wird im zweiten Schritt, dem *Datenaustausch*, behandelt. In der *Simulation* werden einige Vorteile des virtuellen Zwillings beleuchtet. *Anwendungsfelder* werden im letzten Schritt aufgezeigt.
 
 **Wie interagiert der Besucher mit dem Exponat?
 Wie wird die Verbindung zwischen digitalem und physischen Zwilling dargestellt?

@@ -9,12 +9,12 @@ Im nächsten Schritt des Prozesses sammelten wir erste Konzeptideen mit ersten S
 ** Wie lassen sich virtueller und physischer Zwilling unterscheiden?
 Welche Rolle nimmt der Besucher in unserem Konzept ein?**
 
-Die Darstellung des virtuellen Zwillings stellte eine der größten Herausforderungen im Projektprozess dar: Der digitale Part soll zum physischen identisch,  jedoch auch klar zu unterscheiden sein. Aus diesem Grund bieten sich Konzepte, die mit zwei physischen Modellen arbeiten nur begrenzt an: Über Material und Farbe experimentierten wir zunächst an dieser Idee und stellten fest, dass die Unterscheidung und insbesondere die Zuordnung beider Parts meist schwerfällt. In der Darstellung des Digitalen Zwillings auf einem Bildschirm und des physischen Zwillings als Modell sahen wir eine Lösung,  mit der wir relativ einfach sehr verständlich die virtuelle und reale Welt aufzeigen können.  Aus diesem Grund integrierten wir in jedem unserer Konzepte einen Bildschirm/ Projektion und ein physisches Modell/ Produkt. Eine Idee war, die Verbindung der Zwillinge über eine Echtzeitspiegelung zu lösen: Beide Objekte verhalten sich zur gleichen Zeit identisch;  in Echtheit wird die Interaktion / Veränderung des einen Objekts auf den anderen Part übertragen.
+Die Darstellung des virtuellen Zwillings stellte eine der größten Herausforderungen im Projektprozess dar: Der digitale Part soll zum physischen identisch,  jedoch auch klar zu unterscheiden sein. Aus diesem Grund bieten sich Konzepte, die mit zwei physischen Modellen arbeiten nur begrenzt an: Über Material und Farbe experimentierten wir zunächst an dieser Idee und stellten fest, dass die Unterscheidung und insbesondere die Zuordnung beider Parts meist schwerfällt. In der Darstellung des digitalen Zwillings auf einem Bildschirm und des physischen Zwillings als Modell sahen wir eine Lösung,  mit der wir relativ einfach sehr verständlich die virtuelle und reale Welt aufzeigen können.  Aus diesem Grund integrierten wir in jedem unserer Konzepte einen Bildschirm/ Projektion und ein physisches Modell/ Produkt. Eine Idee war, die Verbindung der Zwillinge über eine Echtzeitspiegelung zu lösen: Beide Objekte verhalten sich zur gleichen Zeit identisch;  in Echtheit wird die Interaktion / Veränderung des einen Objekts auf den anderen Part übertragen.
 
 (image: dokument.jpg size:half)
 (image: modell.jpg size:half)
 
-Da der Digitale Zwilling zukünftig in der Industrie 4.0 große Verwendung finden wird, war die zweite Überlegung den Kontext einer Fertigungsstraße zu wählen: Die Besucher könnten in unterschiedlichen Rollen und mehreren Szenarien und Stationen den kompletten Lebenszyklus eines physischen und digitalen Produktes verfolgen und im Laufe des Fertigungsprozesses die gegenseitigen Einflüsse und Verbindungen nachvollziehen. 
+Da der digitale Zwilling zukünftig in der Industrie 4.0 große Verwendung finden wird, war die zweite Überlegung den Kontext einer Fertigungsstraße zu wählen: Die Besucher könnten in unterschiedlichen Rollen und mehreren Szenarien und Stationen den kompletten Lebenszyklus eines physischen und digitalen Produktes verfolgen und im Laufe des Fertigungsprozesses die gegenseitigen Einflüsse und Verbindungen nachvollziehen. 
 
 (image: strasse.jpg size:half)
 (image: strasse2.jpg size:half)
@@ -24,7 +24,7 @@ Die nächste Idee des persönlichen, digitalen Zwillings stellt den unmittelbare
 (image: zkm.jpg size: half )
 (image: meintwinzkm.jpg size:half )
 
-Allerdings ist der persönliche digitale Twin ein sehr sensibles Thema. Der unmittelbare Bezug zum Besuch muss mit Vorsicht gestaltet werden, da sonst schnell negative Erfahrungen zustande kommen können. Zudem ist der Mensch ein sehr komplexes Lebewesen, welches zu seinem physischen Aufbau auch eine Persönlichkeit besitzt.  Aus diesem Grund wird ein Mensch wohl nie exakt und gesamtheitlich virtuell repräsentiert werden können. Wir sind deshalb zu dem Entschluss gekommen, dass wir uns auf den Digitalen Zwilling  von Produkten konzentrieren möchten. 
+Allerdings ist der persönliche digitale Twin ein sehr sensibles Thema. Der unmittelbare Bezug zum Besuch muss mit Vorsicht gestaltet werden, da sonst schnell negative Erfahrungen zustande kommen können. Zudem ist der Mensch ein sehr komplexes Lebewesen, welches zu seinem physischen Aufbau auch eine Persönlichkeit besitzt.  Aus diesem Grund wird ein Mensch wohl nie exakt und gesamtheitlich virtuell repräsentiert werden können. Wir sind deshalb zu dem Entschluss gekommen, dass wir uns auf den digitalen Zwilling  von Produkten konzentrieren möchten. 
 
 ** Wie kann man den Unterschied zwischen digital und physisch ohne Screen darstellen?** 
 
