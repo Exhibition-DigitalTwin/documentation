@@ -8,13 +8,15 @@ Author: student
 
 Text: 
 
-**Welche Teilaspekte des Internet der Dinge gibt es? Wohin entwickelt sich das IoT? Welche Themen sind besonders wichtig und für Ausstellungsbesucher relevant?**
+**Welche Teilaspekte des Internet der Dinge gibt es? 
+Wohin entwickelt sich das IoT? 
+Welche Themen sind besonders wichtig und für Ausstellungsbesucher relevant?**
 
 Das Internet der Dinge ist ein Begriff, der aktuell und auch zukünftig mit zunehmender Häufigkeit fallen wird. Aus diesem Grund war das Eintauchen in die Vielseitigkeit des IoT unser erster Schritt. 
 
 **Der Digitale Zwilling ist die virtuelle Repräsentanz eines real existierenden Produkts, Services oder Prozesses.**
 
-Aus einem Pool interessanter IoT Themen entschieden wir,  ein Exponat für den Digitalen Zwilling zu entwickeln. Der Digitale Zwilling ist ein zunehmend bedeutendes Thema in Industrie und Alltag, jedoch bisher relativ unbekannt. In einer zweiten Recherchephase informierten wir uns tiefgehend mit den entsprechenden Inhalten und eigneten uns Expertenwissen als Grundlage für die Vermittlung an. 
+Aus einem Pool interessanter IoT Themen entschieden wir,  ein Exponat für den Digitalen Zwilling zu entwickeln. Der Digitale Zwilling ist ein zunehmend bedeutendes Thema in Industrie und Alltag, jedoch bisher relativ unbekannt. In einer zweiten Recherchephase informierten wir uns tiefgehend mit dem Thema Digitaler Zwilling  und eigneten uns Wissen als Grundlage für die Vermittlung an. 
 
 **Welche (Titel)Frage behandelt das Exponat ?
 Welche Inhalte sollen vermittelt werden?**

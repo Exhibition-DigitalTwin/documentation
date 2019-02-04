@@ -9,9 +9,8 @@ Text:
 Im unserem Konzept kann der Besucher über einen Touchscreen mit dem Digitalen Zwilling interagieren. Die digitalen Darstellungsformen eines Objekts sind jedoch vielfältig. Wir probierten im Laufe des Prozesses unterschiedliche Ideen und Visualisierungen eines Windrades aus: 2D Grafik, Zeichnung, 3D-Modell, etc.
 Letztlich entschieden wir uns für ein CAD Modell, so wie es in der Industrie bereits im Zusammenhang mit dem Digital Twin verwendet und gebraucht wird. 
 
-Da wir das Modell des Windrades in der Anwendung drehen und animieren wollten, entschieden wir uns für eine Umsetzung als React App mit der Library Three.js. Diese Bibliothek wird für Animationen von dreidimensionalen Grafiken in einem Webbrowser genutzt.
+Da wir das Modell des Windrades in der Anwendung drehen und animieren wollten, entschieden wir uns für eine Umsetzung als React App mit der Library Three.js. Diese Bibliothek wird für Animationen von dreidimensionalen Modell in einem Webbrowser genutzt. Vorteile der React App sind außerdem, dass das Modell live gerendert wird und die Daten in Echtzeit aktualisiert werden. Die Kommunikation des Arduinos, welcher die Motoren steuert, läuft mit Websocket. Über eine serielle Schnittschnelle werden Daten weitergeleitet. Insgesamt lässt sich der Inhalt mit dieser Umsetzung durch die einfache Übersetzbarkeit dynamisch anpassen.
 
-**@jan noch was zu react? ####**
 
 (image: web-1920-31.png size:half)
 (image: web-1920-13.png size:half)
@@ -27,7 +26,8 @@ Eine große Fragestellung war die Interaktionsmöglichkeit mit dem Touchscreen. 
 
 (image: web-1920-13-480x270.png size:half)
 (image: web-1920-50-480x270.png size:half)
-(image: start-an-copy-61-854x480.png size:big)
+(image: start-an-copy-61-854x480.png size:half)
+(image: aktuell.png size:big)
 
 Eine Herausforderung war, eine sinnvolle und interessante Navigation zu finden. Die Idee das Navigationsmenü um das digitale Windrad zu setzen und den Aufbau des Exponats abzubilden, verwarfen wir. Ein Menü auf der rechten Seite, welches in Leserichtung durch die Stationen führt, erschien uns letztlich als verständlichste Lösung. Wenn ein Menüpunkt, beispielsweise im Screensaver, ausgewählt werden kann, blinkt dieser auf. Ist der Punkt aktiv, leuchtet er auf und ist deutlich hervorgehoben.
 

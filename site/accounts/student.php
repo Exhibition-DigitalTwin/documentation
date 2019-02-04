@@ -12,6 +12,6 @@ history:
   - >
     der-digitale-zwilling/prototype/der-digitale-zwilling
   - der-digitale-zwilling/prototype/der-physische-zwilling
-  - der-digitale-zwilling/rapid-prototype
-  - der-digitale-zwilling/ausblick/aktueller-stand-und-weiteres-vorgehen
   - der-digitale-zwilling/iteration-ideation
+  - der-digitale-zwilling/research/nutzerrecherche-flaneur-experte-schulklassen
+  - der-digitale-zwilling/research/inhalt-digitaler-zwilling
