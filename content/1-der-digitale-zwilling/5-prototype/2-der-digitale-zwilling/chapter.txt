@@ -11,7 +11,6 @@ Letztlich entschieden wir uns für ein CAD Modell, so wie es in der Industrie be
 
 Da wir das Modell des Windrades in der Anwendung drehen und animieren wollten, entschieden wir uns für eine Umsetzung als React App mit der Library Three.js. Diese Bibliothek wird für Animationen von dreidimensionalen Modell in einem Webbrowser genutzt. Vorteile der React App sind außerdem, dass das Modell live gerendert wird und die Daten in Echtzeit aktualisiert werden. Die Kommunikation des Arduinos, welcher die Motoren steuert, läuft mit Websocket. Über eine serielle Schnittschnelle werden Daten weitergeleitet. Insgesamt lässt sich der Inhalt mit dieser Umsetzung durch die einfache Übersetzbarkeit dynamisch anpassen.
 
-
 (image: web-1920-31.png size:half)
 (image: web-1920-13.png size:half)
 
@@ -24,12 +23,12 @@ Wir haben lange überlegt, wie viel Freiheit wir dem Nutzer geben wollen. Wir de
 
 Eine große Fragestellung war die Interaktionsmöglichkeit mit dem Touchscreen. Mit dem Wunsch den Besucher an dem Exponat etwas mehr teilhabenzulassen, nahmen wir in unser Konzept kleine Zusatzfunktionen auf. In der ersten Station kann beispielsweise über einen Slider das 3D Modell in seine Einzelteile auseinanderbauen. Hieraus ergibt sich direkt der Mehrwert, mehr Informationen zu dem ausgestellten Windradmodell zu erfahren. Die zweite Station fordert den Besucher auf, die Datenübertragung zu starten, in der dritten wird auf den Input des Besuchers eine Simulation begonnen. Zusätzlich ergänzten wir den Inhalt der Stationen mit Expertenwissen: Begriffe und Themen, zu denen zusätzliche Informationen zur Verfügung stehen, werden besonders markiert und öffnen bei Touch ihren Inhalt.
 
-(image: web-1920-13-480x270.png size:half)
-(image: web-1920-50-480x270.png size:half)
+(image: web-1920-51.png size:half)
 (image: start-an-copy-61-854x480.png size:half)
-(image: aktuell.png size:big)
+(image: web-1920-50-480x270.png size:half)
+(image: aktuell.png size:half caption: Umsetzung als React App)
 
-Eine Herausforderung war, eine sinnvolle und interessante Navigation zu finden. Die Idee das Navigationsmenü um das digitale Windrad zu setzen und den Aufbau des Exponats abzubilden, verwarfen wir. Ein Menü auf der rechten Seite, welches in Leserichtung durch die Stationen führt, erschien uns letztlich als verständlichste Lösung. Wenn ein Menüpunkt, beispielsweise im Screensaver, ausgewählt werden kann, blinkt dieser auf. Ist der Punkt aktiv, leuchtet er auf und ist deutlich hervorgehoben.
+Eine Herausforderung war, eine sinnvolle und interessante Navigation zu finden. Die Idee das Navigationsmenü um das digitale Windrad zu setzen und den viereckigen  Aufbau des Exponats abzubilden, verwarfen wir. Ein Menü auf der rechten Seite, welches in Leserichtung durch die Stationen führt, erschien uns letztlich als verständlichste Lösung. Wenn ein Menüpunkt, beispielsweise im Screensaver, ausgewählt werden kann, blinkt dieser auf. Ist der Punkt aktiv, leuchtet er auf und ist deutlich hervorgehoben.
 
 ----
 

@@ -4,11 +4,13 @@ Title: Aktueller Stand und weiteres Vorgehen
 
 Text: 
 
-** Welche Probleme müssen bis zur Ausstellung gelöst werden?**
+** Wie kann das Exponat weiter verbessert werden?**
 
-Aktuell sind wir mit dem grundsätzlichen Aufbau des Exponats fertig. Der Tisch mit Aufsatz ist fertiggebaut. Im nächsten Schritt wird der Bildschirm  befestigt  und die Hügelformen festgeschraubt. Das Modell des physischen Windrades muss teilweise noch  gedruckt werden, allerdings sind die Dateien bereits angelegt. Die LEDs und Motoren laufen problemlos, auch bei Multitasking. Insgesamt funktioniert das Zusammenspiel von physisch und digital dank React App bereits relativ stabil. Allerdings müssen Details perfektioniert werden: die Animation der LEDs beim Übergang der beiden Welten, Timing, Positionen auf welche das Windrad drehen soll, usw. 
+Aktuell sind wir mit dem grundsätzlichen Aufbau des Exponats fertig. Der Tisch mit Aufsatz ist fertiggebaut, die Hügelformen festgeschraubt. Das Modell des physischen Windrades wurde gedruckt und bearbeitet. Dafür haben wir es geschliffen und gespachtelt, bevor es weiß lackiert wurde. Durch die Bearbeitung hat es ein mattes, hochwertiges Finish bekommen. Die LEDs und Motoren laufen problemlos, auch bei Multitasking. Insgesamt funktioniert das Zusammenspiel von physisch und digital dank React App sehr stabil. Die Animation der LEDs beim Übergang der beiden Welten und das Timing insgesamt wurden angepasst.  Die Screens wurden auf Englisch übersetzt, um internationalen Ausstellungsbesuchern eine Interaktion mit dem Exponat zu ermöglichen. 
 
-Bis zur Ausstellung soll der Tisch noch geschliffen und poliert werden, sodass ein hochwertiger Look entsteht. Auch das Windrad muss, je nach Qualität des Drucks, eventuell geschliffen und bearbeitet werden.  Eine größere Baustelle sind derzeit noch die Screens für die Stationen *Simulation* und *Anwendung*. Das Screendesign, welches wir in Sketch und Adobe XD erstellt haben, muss noch auf die React App übertragen werden. Wir sind auf einem guten Weg, das Exponat bis zur Ausstellung zufriedenstellend fertigzustellen.
+Insgesamt haben wir unser Ziel erreicht, ein Exponat zu gestalten, welches einer großen Vielfalt an Besuchern Wissen zum Digitalen Zwilling vermittelt. Über eine verständliche, aufbauende Struktur werden die Inhalte anhand eines Beispiels, dem Windrad, erklärt. Die Interaktion findet über einen Touchscreen statt - in verschiedenen Stationen wird der Besucher aufgefordert, den Prozess voranzubringen, Daten zu übertragen, Simulationen zu starten usw. 
+
+In einem größeren User Test könnte nun die Usability getestet werden. Ein Interview mit den Nutzern könnte eventuelle Verbesserungswünsche hervorbringen und neue Iterationen erfordern. In jedem Fall, wäre der nächste Schritt des Designprozesses das Testing, um Feedback zum Prototypen zu generieren.
 
 ----
 

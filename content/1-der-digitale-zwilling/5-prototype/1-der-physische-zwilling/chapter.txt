@@ -8,13 +8,10 @@ Für den physischen Part musste der grundsätzliche Aufbau des Exponats gebaut w
 
 Die Tischkonstruktion wurde so geplant, dass der Touchscreen für eine durchschnittliche Körpergröße auf angenehmer Höhe liegt.  Wir suchten ein Material für den Tisch, welches stabil, in der Verarbeitung einfach und in Schwarz erhältlich ist und wählten schließlich MDF. Aus fünf Platten schraubten wir einen würfelförmigen Tisch mit den Maßen 100cm  x 90 cm. 
 
-Das  Windrad wurde in einem CAD Programm aufgebaut und anschließend 3D gedruckt. 
-identisch, komisches proportionsverhältnis (große Motoren, müssen was aushalten, gleichgewicht finden), solidworks, maße müssen paßen (Motor und Getriebe muss um perfekt zu laufen passen), Probedruck 
-
-**###### @Marcus bitte Details zu CAD Modell ergänzen..**
-
+Wir entschieden uns dafür, das Modell des Windrades selbst in SolidWorks aufzubauen. So war es uns möglich, physischen und virtuellen Part identisch darzustellen. Das Modell druckten wir daraus mehrfach 3D, bis wir durch kleine Anpassungen die passenden Maße gefunden haben. Das größte Problem im Aufbau des Modells war das Proportionsverhältnis: Da die Motoren viel aushalten müssen, sind sie relativ groß. Es galt ein Gleichgewicht in den Proportionen des Modells zu finden. 
 
 ** Wie kann der Bezug des Besuchers zum Windrad gestärkt werden?**
+
 Um den Bezug des Nutzers zum Windrad zu verstärken und dem Exponat einen weniger abstrakten Look zu geben, frästen wir eine Hügellandschaft aus einer der MDF Platten. Diese bestand aus acht Platten mit einer Höhe von jeweils 19mm. Wir entschieden uns,  den Bildschirm in einem geeigneten Winkel in den Aufsatz einzulassen, um ein angenehmes Gesamtbild zu erzeugen und die Daten Verbindung besser darstellen zu können. Die Idee war, die Daten (LEDs) der realen Welt in die virtuelle Welt, den Bildschirm, laufen zu lassen und umgekehrt.
 
 (image: digital-twin.svg size:big)

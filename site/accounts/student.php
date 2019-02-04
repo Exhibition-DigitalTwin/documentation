@@ -10,8 +10,8 @@ lastname: ""
 email: ""
 history:
   - >
-    der-digitale-zwilling/prototype/der-digitale-zwilling
+    der-digitale-zwilling/ausblick/aktueller-stand-und-weiteres-vorgehen
+  - der-digitale-zwilling/prototype/der-digitale-zwilling
+  - der-digitale-zwilling/ideation/ideensammlung-brainstorming-sketching
   - der-digitale-zwilling/prototype/der-physische-zwilling
   - der-digitale-zwilling/iteration-ideation
-  - der-digitale-zwilling/research/nutzerrecherche-flaneur-experte-schulklassen
-  - der-digitale-zwilling/research/inhalt-digitaler-zwilling
